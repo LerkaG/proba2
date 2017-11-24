@@ -1,0 +1,7 @@
+*.рус
+
+.DS_Store
+
+*.war
+*.jar
+*.ear
